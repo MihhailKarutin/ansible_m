@@ -1,0 +1,6 @@
+apache_paket: httpd
+asukoht_userdir_conf: /etc/httpd/conf.d/userdir.conf
+root_dest: /var/www/html/index.html
+inimese_nimi: "Mihhail CentOS-is"
+user_dest: /home/user/public_html/index.html
+useri_nimi: "User-i kodulehkülg CentOS-is"

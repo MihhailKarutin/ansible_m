@@ -1,0 +1,6 @@
+apache_paket: apache2
+asukoht_userdir_conf: /etc/apache2/mods-enabled/userdir.conf
+root_dest: /var/www/html/index.html
+inimese_nimi: "Mihhail Debian-is"
+user_dest: /home/user/public_html/index.html
+useri_nimi: "User-i kodulehkülg CentOS-is"
